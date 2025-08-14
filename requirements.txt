@@ -7,7 +7,7 @@ langchain-openai==0.2.14
 langchain-anthropic==0.3.0
 langchain-community==0.3.13
 langgraph==0.2.62
-supabase==2.10.1
+supabase==2.18.1
 requests==2.32.3
 beautifulsoup4==4.12.3
 fastapi==0.115.6
